@@ -1,0 +1,33 @@
+.home-container {
+    background-color: #f8f9fa; /* Light gray background for the container */
+    padding: 30px;
+    border-radius: 15px;
+  }
+  
+  .card {
+    margin-top: 15px;
+    border-radius: 10px;
+    background-color: #ffffff; /* White background for the card */
+  }
+  
+  .card-title {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .card-text {
+    font-size: 16px;
+    color: #555;
+  }
+  
+  .img-fluid {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+  }
+  
+  .shadow {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
